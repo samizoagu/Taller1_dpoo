@@ -1,0 +1,14 @@
+tipo:extra:12000:25.0
+tipo:corriente:8000:25.0
+tipo:gas:6000:30.0
+tipo:Sara:9000:50.0
+tipo:Diesel:10000:25.0
+surtidor:valeria:extra:0.0:corriente:0.0:gas:0.0:Sara:0.0:Diesel:0.0
+surtidor:Shaiel:extra:0.0:corriente:0.0:gas:0.0:Sara:0.0:Diesel:0.0
+surtidor:juan:extra:0.0:corriente:0.0:gas:0.0:Sara:0.0:Diesel:0.0
+surtidor:valeria:extra:0.0:corriente:0.0:gas:0.0:Sara:0.0:Diesel:0.0
+empleado:valeria:0
+empleado:pablo:0
+empleado:jose:0
+empleado:juan:0
+empleado:Shaiel:0
